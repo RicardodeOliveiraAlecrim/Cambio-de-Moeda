@@ -1,6 +1,6 @@
 # Cambio de Moeda
 
-![Cambio de Moeda](layout.png)
+![Cambio de Moeda](./assets/layout.png)
 
 ## Descrição do Projeto
 
