@@ -1,6 +1,6 @@
 const converter = document.getElementById('converter')
 
-const bob = document.getElementById('bob')
+const igual = document.getElementById('balanca')
 
 
 function convertendo() {
@@ -258,7 +258,7 @@ function convertendo() {
 
     }
 
-    bob.src = "./assets/balanca.png"
+    igual.src = "./assets/balanca.png"
 }
 
 
